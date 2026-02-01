@@ -16,9 +16,8 @@
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
     "express": "^5.2.1",
-    "nodemailer": "^7.0.12"
+    "nodemailer": "^7.0.13"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Francy-24/health-backend.git"
